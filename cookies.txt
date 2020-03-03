@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.facebook.com	TRUE	/	FALSE	1999999999	fr	0en3LugXXXgUJ3Kc5..BeXkZw...1.0.BeXkZw.
+dental.eyesandsmiles.co.uk	TRUE	/	FALSE	1999999999	PHPSESSID	deleted
+.tfl.gov.uk	TRUE	/	FALSE	1999999999	__cfduid	d1d8b140cc5c6f3377401b8725fe337521583236813
+tfl.gov.uk	TRUE	/	FALSE	1999999999	SameSite	Lax
+dental.eyesandsmiles.co.uk	TRUE	/	FALSE	1999999999	CookieMessage	36
+

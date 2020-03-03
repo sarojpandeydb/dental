@@ -1,0 +1,39 @@
+HTTrack3.49-2 launched on Tue, 03 Mar 2020 17:28:05 at http://https://dental.eyesandsmiles.co.uk/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -w http://https://dental.eyesandsmiles.co.uk/ -O "/home/saroj/websites/https://dental.eyesandsmiles.co.uk/" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:31:34	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.google.com/recaptcha/api.js
+17:32:20	Warning: 	HTML file (41216 bytes) retransferred due to lack of cache: https://dental.eyesandsmiles.co.uk/about
+17:32:21	Warning: 	HTML file (47197 bytes) retransferred due to lack of cache: https://dental.eyesandsmiles.co.uk/blog
+17:32:24	Warning: 	HTML file (40711 bytes) retransferred due to lack of cache: https://dental.eyesandsmiles.co.uk/gallery/teeth-whitening3
+17:32:25	Warning: 	HTML file (42221 bytes) retransferred due to lack of cache: https://dental.eyesandsmiles.co.uk/blog?aid=21584
+17:32:26	Warning: 	HTML file (41555 bytes) retransferred due to lack of cache: https://dental.eyesandsmiles.co.uk/blog?aid=20834
+17:32:27	Warning: 	HTML file (41646 bytes) retransferred due to lack of cache: https://dental.eyesandsmiles.co.uk/blog?aid=20833
+17:32:28	Warning: 	HTML file (41842 bytes) retransferred due to lack of cache: https://dental.eyesandsmiles.co.uk/blog?aid=20832
+17:32:32	Warning: 	HTML file (41271 bytes) retransferred due to lack of cache: https://dental.eyesandsmiles.co.uk/blog?aid=9880
+17:32:36	Warning: 	HTML file (41196 bytes) retransferred due to lack of cache: https://dental.eyesandsmiles.co.uk/blog?aid=9879
+17:32:41	Warning: 	HTML file (40851 bytes) retransferred due to lack of cache: https://dental.eyesandsmiles.co.uk/blog?aid=9881
+17:32:45	Warning: 	HTML file (40154 bytes) retransferred due to lack of cache: https://dental.eyesandsmiles.co.uk/gallery/smile-makeover
+17:32:50	Error: 	"Not Found" (404) at link https://dental.eyesandsmiles.co.uk/templates_css/fonts/glyphicons-halflings-regular.eot (from https://dental.eyesandsmiles.co.uk/templates_css/css/stylesheet.css?sid=6427&v=030320)
+17:32:50	Error: 	"Not Found" (404) at link https://dental.eyesandsmiles.co.uk/templates_css/fonts/glyphicons-halflings-regular.eot? (from https://dental.eyesandsmiles.co.uk/templates_css/css/stylesheet.css?sid=6427&v=030320)
+17:32:50	Error: 	"Not Found" (404) at link https://dental.eyesandsmiles.co.uk/templates_css/fonts/glyphicons-halflings-regular.woff2 (from https://dental.eyesandsmiles.co.uk/templates_css/css/stylesheet.css?sid=6427&v=030320)
+17:32:50	Error: 	"Not Found" (404) at link https://dental.eyesandsmiles.co.uk/templates_css/fonts/glyphicons-halflings-regular.woff (from https://dental.eyesandsmiles.co.uk/templates_css/css/stylesheet.css?sid=6427&v=030320)
+17:32:50	Error: 	"Not Found" (404) at link https://dental.eyesandsmiles.co.uk/templates_css/fonts/glyphicons-halflings-regular.ttf (from https://dental.eyesandsmiles.co.uk/templates_css/css/stylesheet.css?sid=6427&v=030320)
+17:32:50	Error: 	"Not Found" (404) at link https://dental.eyesandsmiles.co.uk/templates_css/fonts/glyphicons-halflings-regular.svg (from https://dental.eyesandsmiles.co.uk/templates_css/css/stylesheet.css?sid=6427&v=030320)
+17:32:50	Error: 	"Not Found" (404) at link https://dental.eyesandsmiles.co.uk/templates_css/css/grabbing.png (from https://dental.eyesandsmiles.co.uk/templates_css/css/stylesheet.css?sid=6427&v=030320)
+17:32:50	Error: 	"Not Found" (404) at link https://dental.eyesandsmiles.co.uk/templates_css/css/AjaxLoader.gif (from https://dental.eyesandsmiles.co.uk/templates_css/css/stylesheet.css?sid=6427&v=030320)
+17:32:50	Warning: 	File not parsed, looks like binary: https://dental.eyesandsmiles.co.uk/templates_css/images/social-buttons/icons.woff?social
+17:32:50	Warning: 	File not parsed, looks like binary: https://dental.eyesandsmiles.co.uk/templates_css/images/social-buttons/icons.ttf?social
+17:32:50	Error: 	"Not Found" (404) at link https://dental.eyesandsmiles.co.uk/templates_css/images/sort_both.png (from https://dental.eyesandsmiles.co.uk/templates_css/css/stylesheet.css?sid=6427&v=030320)
+17:32:50	Error: 	"Not Found" (404) at link https://dental.eyesandsmiles.co.uk/templates_css/images/sort_asc.png (from https://dental.eyesandsmiles.co.uk/templates_css/css/stylesheet.css?sid=6427&v=030320)
+17:32:50	Error: 	"Not Found" (404) at link https://dental.eyesandsmiles.co.uk/templates_css/images/sort_desc.png (from https://dental.eyesandsmiles.co.uk/templates_css/css/stylesheet.css?sid=6427&v=030320)
+17:32:50	Error: 	"Not Found" (404) at link https://dental.eyesandsmiles.co.uk/templates_css/images/sort_asc_disabled.png (from https://dental.eyesandsmiles.co.uk/templates_css/css/stylesheet.css?sid=6427&v=030320)
+17:32:50	Error: 	"Not Found" (404) at link https://dental.eyesandsmiles.co.uk/templates_css/images/sort_desc_disabled.png (from https://dental.eyesandsmiles.co.uk/templates_css/css/stylesheet.css?sid=6427&v=030320)
+17:32:50	Error: 	"Not Found" (404) at link https://dental.eyesandsmiles.co.uk/POST (from https://connect.facebook.net/en_US/fbevents.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 45 seconds : 206 links scanned, 200 files written (13440131 bytes overall) [10956892 bytes received at 38445 bytes/sec], 4020952 bytes transferred using HTTP compression in 87 files, ratio 22%, 1.3 requests per connection
+(14 errors, 14 warnings, 0 messages)
